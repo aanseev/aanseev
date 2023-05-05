@@ -1,16 +1,24 @@
+# 💻 >whoami 👨‍💻
+```
+▄▀█ ▄▀█ █▄ █ █▀ █▀▀ █▀▀ █ █
+█▀█ █▀█ █ ▀█ ▄█ ██▄ ██▄ ▀▄▀
+```
 ### Hi there 👋
 
-<!--
-**aanseev/aanseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
 
-Here are some ideas to get you started:
+### [🔗 My website! 🕸](https://aanseev.github.io/web-repository/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+    <summary>🚧 Projects in progress... 🏗</summary>
+
+* [Web-Repository](https://github.com/aanseev/web-repository)
+</details>
+
+<details>
+    <summary>🚩 Finished projects 🎯</summary>
+    
+* Thyf
+* Trerath
+</details>
