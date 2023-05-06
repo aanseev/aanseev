@@ -22,12 +22,12 @@ I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
 </details>
 
 ### Connect with me:
-[![LinkedIn](./img/linkedin-light-only.svg)](#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark-only.svg)](#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light-only.png)](#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark-only.png)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Email](./img/emamil-light-only.svg)](#gh-light-mode-only)
-[![Email](./img/email-dark-only.svg)](#gh-dark-mode-only)
+[![Email](./img/emamil-light-only.png)](#gh-light-mode-only)
+[![Email](./img/email-dark-only.png)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Discord](./img/discord-light-only.svg)](#gh-light-mode-only)
-[![Discord](./img/discord-dark-only.svg)](#gh-dark-mode-only)
+[![Discord](./img/discord-light-only.png)](#gh-light-mode-only)
+[![Discord](./img/discord-dark-only.png)](#gh-dark-mode-only)
 &nbsp;&nbsp;
