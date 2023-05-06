@@ -5,7 +5,15 @@
 ```
 ### Hi there 👋
 
-I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
+I am Alexander Anseev (or `aanseev`) and I'm a 🦄 ** Software Developer** 🔥
+
+### About My GitHub
+This account contains all the work that I am
+allowed to share publicly, which mostly include
+personal side projects that I work on in my 
+free time.
+
+### Types of Projects
 
 
 <details>
@@ -22,12 +30,11 @@ I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
 </details>
 
 ### Connect with me:
-[<img alt="LinkedIn" width="26px" src="./img/linkedin-light-only.svg">](#gh-light-mode-only)
-[<img alt="LinkedIn" width="26px" src="./img/linkedin-dark-only.svg">](#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light-only.svg)](#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark-only.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img alt="Email" width="26px" src="./img/email-light-only.svg">](#gh-light-mode-only)
-[<img alt="Email" width="26px" src="./img/email-dark-only.svg">](#gh-light-mode-only)
+[![Email](./img/emamil-light-only.svg)](#gh-light-mode-only)
+[![Email](./img/email-dark-only.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img alt="discord" width="26px" src="./img/discord-light-only.svg">](#gh-light-mode-only)
-[<img alt="discord" width="26px" src="./img/discord-dark-only.svg">](#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![Discord](./img/discord-light-only.svg)](#gh-light-mode-only)
+[![Discord](./img/discord-dark-only.svg)](#gh-dark-mode-only)
