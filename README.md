@@ -22,9 +22,11 @@ I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
 </details>
 
 ### Connect with me:
-[<img alt="LinkedIn" width="26px" src="./img/linkedin-light-only.png" />](https://www.linkedin.com/in/aanseev/#gh-light-mode-only)
-[<img alt="LinkedIn" width="26px" src="./img/linkedin-dark-only.png" />](https://www.linkedin.com/in/aanseev/#gh-dark-mode-only)
-[<img alt="Email" width="26px" src="./img/email-light-only.png">](mailto:alexander.anseev@gmail.com#gh-light-mode-only)
-[<img alt="Email" width="26px" src="./img/email-dark-only.png">](mailto:alexander.anseev@gmail.com#gh-dark-mode-only)
-[<img alt="discord" width="26px" src="./img/discord-light-only.png">](https://discordapp.com/users/339744695179804672#gh-light-mode-only)
-[<img alt="discord" width="26px" src="./img/discord-dark-only.png">](https://discordapp.com/users/339744695179804672#gh-dark-mode-only)
+[<img alt="LinkedIn" width="26px" src="./img/linkedin-light-only.png" />](https://www.linkedin.com/in/aanseev/#gh-light-mode-only) 
+[<img alt="LinkedIn" width="26px" src="./img/linkedin-dark-only.png"/>](https://www.linkedin.com/in/aanseev/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img alt="Email" width="26px" src="./img/email-light-only.png">](mailto:alexander.anseev@gmail.com#gh-light-mode-only) 
+[<img alt="Email" width="26px" src="./img/email-dark-only.png">](mailto:alexander.anseev@gmail.com#gh-dark-mode-only) 
+&nbsp;&nbsp;
+[<img alt="discord" width="26px" src="./img/discord-light-only.png">](https://discordapp.com/users/339744695179804672#gh-light-mode-only) 
+[<img alt="discord" width="26px" src="./img/discord-dark-only.png">](https://discordapp.com/users/339744695179804672#gh-dark-mode-only) 
