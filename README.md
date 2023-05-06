@@ -7,6 +7,13 @@
 
 I am Alexander Anseev and I'm a 🦄 **Software Developer** 🔥
 
+### About My GitHub
+This account contains all the work that I am
+allowed to share publicly, which mostly include
+personal side projects that I work on in my 
+free time.
+
+### Types of Projects
 
 <details>
     <summary>🚧 Projects in progress... 🏗</summary>
