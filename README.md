@@ -5,7 +5,7 @@
 ```
 ### Hi there 👋
 
-I am Alexander Anseev and I'm a 🦄 **Junior Software Engineer** 🔥
+I am Alexander Anseev and I'm a 🦄 **Software Developer** 🔥
 
 
 <details>
