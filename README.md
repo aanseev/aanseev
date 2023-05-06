@@ -33,6 +33,6 @@ free time.
 [<img alt="LinkedIn" width="26px" src="./img/linkedin-light-only.svg" />](#gh-light-mode-only)
 [<img alt="LinkedIn" width="26px" src="./img/linkedin-dark-only.svg" />](#gh-dark-mode-only)
 [<img alt="Email" width="26px" src="./img/email-light-only.svg">](#gh-light-mode-only)
-[<img alt="Email" width="26px" src="./img/email-dark-only.svg">](#gh-light-mode-only)
+[<img alt="Email" width="26px" src="./img/email-dark-only.svg">](#gh-dark-mode-only)
 [<img alt="discord" width="26px" src="./img/discord-light-only.svg">](#gh-light-mode-only)
 [<img alt="discord" width="26px" src="./img/discord-dark-only.svg">](#gh-dark-mode-only)
