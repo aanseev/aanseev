@@ -7,6 +7,12 @@
 
 I am Alexander Anseev and I'm a 🦄 **Software Developer** 🔥
 
+### Latest Resume
+Below is a button that leads to the latest version of my resume 📃
+
+[<img alt="Resume" height="20px" src="./img/resume-light-only.png" />](https://drive.google.com/file/d/1zAdITohK4wHzuoTrREIlKe8VdJrlQfq3/view?usp=share_link#gh-light-mode-only) 
+[<img alt="Resume" height="20px" src="./img/resume-dark-only.png"/>](https://drive.google.com/file/d/1zAdITohK4wHzuoTrREIlKe8VdJrlQfq3/view?usp=share_link#gh-dark-mode-only)
+
 ### About My GitHub
 This account contains all the work that I am
 allowed to share publicly, which mostly include
