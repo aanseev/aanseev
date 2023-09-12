@@ -15,7 +15,7 @@ Below is a button that leads to the latest version of my resume 📃
 
 ### About My GitHub
 This account contains all the work that I am
-allowed to share publicly, which mostly include
+allowed to share publicly, which mostly includes
 personal side projects that I work on in my 
 free time.
 
