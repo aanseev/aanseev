@@ -5,7 +5,7 @@
 ```
 ### Hi there 👋
 
-I am Alexander Anseev and I'm a **Software Developer**�
+I am Alexander Anseev and I'm a **Software Developer**
 
 ### Latest Resume
 Below is a button that leads to the latest version of my resume 📃
