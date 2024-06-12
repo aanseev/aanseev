@@ -24,7 +24,7 @@ free time.
 <details>
     <summary>🚧 Projects in progress... 🏗</summary>
 
-* [StreakUp](/) - a mobile app to help people stay committed to their goals!
+* [StreakUp](https://github.com/aanseev/StreakUp) - a mobile app to help people stay committed to their goals!
 </details>
 
 <details>
