@@ -24,7 +24,7 @@ free time.
 <details>
     <summary>🚧 Projects in progress... 🏗</summary>
 
-* [Web-Repository](https://github.com/aanseev/web-repository) - my web-resume, it will contain summary of my experiences and projects in a cool looking format!
+* [StreakUp](/) - a mobile app to help people stay committed to their goals!
 </details>
 
 <details>
