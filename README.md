@@ -32,6 +32,7 @@ free time.
     
 * [Thyf](https://github.com/aanseev/thyf) - 2D platformer with teleport kunai ([playable!](https://aanseev.itch.io/thyf))
 * [Trerath](https://github.com/aanseev/trerath) - top down 3D maze game ([playable!](https://aanseev.itch.io/trerath))
+* [v3 Toggle](https://github.com/aanseev/v3toggle) - a tool for the Power Automate editor to keep the desired version of the editor enabled
 </details>
 
 ### Connect with me:
