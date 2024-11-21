@@ -41,6 +41,3 @@ free time.
 &nbsp;&nbsp;
 [<img alt="Email" width="26px" src="./img/email-light-only.png">](mailto:aanseev@proton.me#gh-light-mode-only) 
 [<img alt="Email" width="26px" src="./img/email-dark-only.png">](mailto:aanseev@proton.me#gh-dark-mode-only) 
-&nbsp;&nbsp;
-[<img alt="discord" width="26px" src="./img/discord-light-only.png">](https://discordapp.com/users/339744695179804672#gh-light-mode-only) 
-[<img alt="discord" width="26px" src="./img/discord-dark-only.png">](https://discordapp.com/users/339744695179804672#gh-dark-mode-only) 
